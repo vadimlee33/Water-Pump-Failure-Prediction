@@ -464,7 +464,7 @@ data.shape
 
 
 
-## Step 2. Data analysis
+## Data analysis
 
 ### Functions
 
