@@ -6,7 +6,7 @@ The dataset for this project was collected from the pump and consists of 52 sens
 
 ## Tools
 In this project we use a lot of different libraries.
-- For model training we use Machine Learning Algorithms and Deep Learning(ANN)
+#### For model training we use Machine Learning Algorithms and Deep Learning(ANN)
 - We use Machine Learning Algorithms from open-source library scikit-learn.
 - In case of Deep Learning we use TensorFlow.
 
