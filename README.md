@@ -6,7 +6,10 @@ The dataset for this project was collected from the pump and consists of 52 sens
 
 ## Tools
 In this project we use a lot of different libraries.
-#### Data Preprocesing: 
+#### Data Visualization:
+- Matplotlib
+- Seaborn
+#### Data Preprocesing:
 - Data Scaling: MinMaxScaler (from scikit-learn)
 - Missing Data Imputation: RandomSampleImputer (from feature-engine)
 - Feature Selection: DropCorrelatedFeatures, DropDuplicateFeatures, DropCorrelatedFeatures (from feature-engine)
@@ -16,7 +19,7 @@ In this project we use a lot of different libraries.
 - ML Algorithms: LogisticRegression, KNeighborsClassifier, RandomForestClassifier, GradientBoostingClassifier, XGBoost Classifier.
 - In case of Deep Learning we use TensorFlow.
 - Also we find hyperparameters use Grid Search for ML Algorithms and Keras Tuner for Deep Learning.
-#### Metrics for Evaluation:
+#### Evaluation Metrics:
 We are working with classification problem, thats why we use these metrics:
 - Accuracy
 - Roc-auc
