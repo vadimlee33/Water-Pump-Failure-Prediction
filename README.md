@@ -17,7 +17,7 @@ In this project we use a lot of different libraries.
 #### For model training we use Machine Learning Algorithms and Deep Learning(ANN):
 - Scikit-learn ML Algorithms: LogisticRegression, KNeighborsClassifier, RandomForestClassifier, GradientBoostingClassifier, XGBoost Classifier.
 - In case of Deep Learning we use TensorFlow.
-- Also we find hyperparameters use Grid Search for ML Algorithms and Keras Tuner for Deep Learning.
+- Also for hyperparameters tuning we used Grid Search(Machine Learning) and Keras Tuner for Deep Learning.
 #### Evaluation Metrics:
 We are working with classification problem, thats why we use these metrics:
 - Accuracy
