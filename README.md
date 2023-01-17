@@ -13,7 +13,7 @@ In this project we use a lot of different libraries.
 - Also we use Pipelines to provide a convenient way to organize the preprocessing steps in a structured way and apply them to the input data in a single call.
 #### For model training we use Machine Learning Algorithms and Deep Learning(ANN):
 - We use Machine Learning Algorithms from open-source library scikit-learn.
-ML Algorithms: LogisticRegression, KNeighborsClassifier, RandomForestClassifier, GradientBoostingClassifier, XGBoost Classifier.
+- ML Algorithms: LogisticRegression, KNeighborsClassifier, RandomForestClassifier, GradientBoostingClassifier, XGBoost Classifier.
 - In case of Deep Learning we use TensorFlow.
 - Also we find hyperparameters use Grid Search for ML Algorithms and Keras Tuner for Deep Learning.
 #### Metrics for Evaluation:
