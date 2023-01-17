@@ -27,3 +27,7 @@ We are working with classification problem, thats why we use these metrics:
 - Precision
 - Confusion Matrix
 All of them we get from scikit-learn library.
+
+## Conclusion
+It was a good experience to work with Timeseries Classification problem.
+Even the dataset is imbalanced, we tried to get a good precision score.
